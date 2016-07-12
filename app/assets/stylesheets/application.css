@@ -26,5 +26,6 @@ body{
   /* Standard syntax */
   background: linear-gradient(to right, indigo,blue,indigo);
 
-  color: white; 
+  color: white;
+  text-transform: capitalize;
 }
